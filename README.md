@@ -9,9 +9,9 @@ This program is setup by Teritori core team #1 to support builders from Teritori
 
 ### Note:
 If you're a group of people, we recommand you to 
-- create your DAO or Multisig, using Teritori interfaces.
-- create your organisation profile (with a TNS)
-- post an article on the feed presenting your Grant Application to community, to grab more audience.
+- create your DAO or Multisig, using Teritori interfaces: https://app.teritori.com/orgs
+- create your organisation profile (with a TNS) : [example here](https://app.teritori.com/user/tori-tori17u27ffvj90w4vr32awxlqhnr03hdlqpk575jtz6cvnjxyrukla8qgqdzmx)
+- post an article on the teritori feed presenting your Grant Application to community, to grab more audience: https://app.teritori.com/feed
 
 ### How to apply?
 Find here the template for Summer 2024 Grant Requests.
