@@ -7,6 +7,11 @@ This program is setup by Teritori core team #1 to support builders from Teritori
 - Event Grant : team organizing an event to promote Teritori OS. (from $500 to $5k)
 - Content Grant: team/individual creating original research content on social coordination, governances models, future of community organisations, etc. (from $50 to $1k)
 
+### Note:
+If you're a group of people, we recommand you to 
+- create your DAO or Multisig, using Teritori interfaces.
+- create your organisation profile (with a TNS)
+- post an article on the feed presenting your Grant Application to community, to grab more audience.
 
 ### How to apply?
 Find here the template for Summer 2024 Grant Requests.
@@ -25,7 +30,7 @@ Open a PR with your grant name, using this template:
 #### Requested Amount: 
 ...
 
-#### Description:
+#### Grant Mission Description:
 ...
 
 #### Roadmap
@@ -44,7 +49,7 @@ Open a PR with your grant name, using this template:
 #### Previous contributions links:
 ...
 
-#### Grant receiver teritori wallet address:
+#### Grant receiver teritori wallet address: (with org or individual profile)
 ...
 
 #### Useful links:
