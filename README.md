@@ -15,10 +15,12 @@ If you're a group of people, we recommand you to
 
 ### How to apply?
 Find here the template for Summer 2024 Grant Requests.
-Open a PR with your grant name, using this template:
+Open a PR with your grant name, using **this template**:
+
 
 ---
-#### Grant Project Name:
+
+### Grant Project Name:
 ...
 
 #### Team Name: 
