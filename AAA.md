@@ -132,7 +132,7 @@ Twitter: https://twitter.com/ToriPunks
 Buy on marketplace: https://app.teritori.com/collection/tori-tori1plr28ztj64a47a32lw7tdae8vluzm2lm7nqk364r4ws50rgwyzgsapzezt
 Punks Game Wallet: https://www.mintscan.io/teritori/account/tori1g2nuu04v4ckhvknuadudcwz7dpefftzuud9839
  
-CHADPUNKS Collection:  ⁠ℹ・toripunks-chadpunks 
+CHADPUNKS Collection: 
 
 Twitter: https://twitter.com/ToriPunks
 Buy on marketplace: https://app.teritori.com/collection/tori-tori1a8h38nsxu254trpfm0z65mrvguhp544mf9e36670ltm4s89y5wjq7mqevy
