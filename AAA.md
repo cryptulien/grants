@@ -1,94 +1,94 @@
+# Grant Project Name:
 
+Decentralization of the AAA Project for ToriPunks and ChadPunks
 
-## Grant Project Name:
-
-Decentralization of the AAA project for ToriPunks and ChadPunks
-
-#### Team Name: AAA MetaHuahua Team
+## Team Name: AAA MetaHuahua Team
 - Dr Cryptulien
 - GigiBitcoin
 - Superman
 
-#### Grantee Main Contact:
+## Grantee Main Contact:
 
-- DrCryptulien (julien@karukera.xyz)
+- Dr Cryptulien (julien@karukera.xyz)
 
-#### Requested Amount: 
+## Requested Amount:
 
-- 20 000 USDC
+- 20,000 USDC
 
-#### Grant Mission Description:
+## Grant Mission Description:
 
-Cette mission a 2 principaux objectifs : 
-- Décentraliser le fonctionnement communautaire de AAA pour les activités des ToriPunks et des ChadPunks sur la blockchain Teritori
-- Permettre à toutes les autres collections NFT sur la blockchain Teritori de faire partie d'une ou plusieurs activités communautaires
+This mission has two main objectives:
+- Decentralize the community operations of AAA for the activities of ToriPunks and ChadPunks on the Teritori blockchain.
+- Allow all other NFT collections on the Teritori blockchain to participate in one or more community activities.
 
-#### Roadmap
+## Roadmap
 
-##### Première étape : Décentraliser les jeux
+### First Step: Decentralize the Games
 
-Durée : 1 mois
+#### Duration: 1 month
 
-Budget : 
-- WebApp AAA : 3000 USDC
-- dApp Teritori : 5000 USDC
-- Smart Contracts : 
+#### Budget: 8000 + x
+- WebApp AAA: 3000 USDC
+- dApp Teritori: 5000 USDC
+- Smart Contracts: x (Estimation by Norman)
 
-À ce jour, la Gigantic Lottery permettant à des holders de ToriPunks de gagner un prix tous les mois issu du des rewards du wallet communautaire () est réalisé à la main, et les fonds sont envoyés à la main. Il en est de même pour la Russian Roulette, qui avait un fonctionnement sur un serveur externe centralisé, et qui est down par défaut d'entretien, par manque de moyens. 
+Currently, the Gigantic Lottery, allowing ToriPunks holders to win a monthly prize from the community wallet rewards, is done manually, and funds are sent manually. The same applies to the Russian Roulette, which operated on a centralized external server and is now down due to lack of maintenance and resources.
 
-Il est donc nécessaire de réaliser une décentralisation de ces activités, pour ce faire, il faut : 
-- Des interfaces web pour permettre aux joueurs de participer
-  - Une sur notre application, déjà en cours de développement (https://dev.app.aaa-metahuahua.com/games/gigantic)
-  - Une sur l'application Teritori (à refacto, possiblement une fois le mobile disponible sur Teritori dApp)
-- Des smart contract
-  - Plusieurs essais de smart contracts sont en cours (https://github.com/Aloe-Corporation/cosmos-lottery (Norman a accès à ce repo))
-  - 
+To decentralize these activities, the following are needed:
+- Web interfaces for players to participate
+  - One on our application, already in development (https://dev.app.aaa-metahuahua.com/games/gigantic)
+  - One on the Teritori application (to be refactored, possibly once the mobile version of the Teritori dApp is available)
+- Smart contracts
+  - Several smart contract trials are ongoing (https://github.com/Aloe-Corporation/cosmos-lottery (Norman has access to this repo))
 
-##### Seconde étape : Décentraliser l'utilisation des wallets communautaires
+### Second Step: Decentralize the Use of Community Wallets
 
-Durée : À estimer avec l'équipe Teritori
+#### Duration: To be estimated with the Teritori team
 
-Budget : 
-- Si DAODAO: 
-- Si Teritori: À estimer
+#### Budget: From 500 USDC to x
+- If DAODAO: 500 USDC
+- If Teritori: To be estimated
 
-Donner la main sur les wallets communautaires aux propriétaires de NFTs. Ceci peut passer par plusieurs systèmes: 
-- Soit DAODAO
-- Soit un outil Teritori (non public pour le moment)
+Allow NFT owners to manage the community wallets. This can be done through:
+- DAODAO system
+- Teritori tool (not public yet)
 
-Si DAODAO alors il est nécessaire de travailler avec l'équipe de DAODAO pour permettre le déploiement et l'utilisation des contrats sur la Teritori Chain. 
+If using DAODAO, it is necessary to work with the DAODAO team to deploy and use contracts on the Teritori Chain.
 
-Si outil interne de Teritori, alors il est nécessaire d'attendre la livraison de ce dernier. 
+If using an internal Teritori tool, it is necessary to wait for its delivery.
 
-##### Troisième étape : Ajouter des collections partenaires
+### Third Step: Add Partner Collections
 
-Durée : 3 mois
+#### Duration: 3 months
 
-Budget: 5000 USDC
+#### Budget: 5000 USDC
 
-GigiBitcoin et Superman ont déjà commencé à solliciter les créateurs d'autres collections NFTs sur Teritori, afin de leur proposer de rejoindre un hub de jeux pour leur communauté. Les NFTs seront les clés d'accès de ces jeux, afin de permettre aux collections, d'accéder à un ou plusieurs jeux.
+GigiBitcoin and Superman have already begun reaching out to creators of other NFT collections on Teritori to invite them to join a gaming hub for their community. NFTs will serve as access keys to these games, allowing collections to participate in one or more games.
 
-##### Quatrième étape : Intégrer les nouveaux jeux dans les interfaces web
+### Fourth Step: Integrate New Games into Web Interfaces
 
-Durée : 1 mois côté interface web AAA, à estimer avec l'équipe Teritori côté dApp Teritori
+#### Duration: 1 month for AAA web interface, to be estimated with the Teritori team for the Teritori dApp
 
-Budget : 
-- 
+#### Budget: 1500 + x
+- WebApp AAA: 1500 USDC
+- Teritori: x
 
-#### Delivery time 
-- Milestone #1: Décentralisation des jeux pour ToriPunks et ChadPunks et ajout de raffles
-- Milestone #2: Décentralisation du management des wallets
-- Milestone #3: Ajout des collections partenaires Teritori
-- Final: #4 : Intégration application Teritori
+Add all the games with the partners and create a decentralized web and mobile ecosystem for community games on Teritori, via the Teritori dApp and the AAA WebApp.
 
-#### Team description:
-- Dr Cryptulien: Français, investi dans l'écosystème Cosmos et Teritori depuis les débuts. Développeur Front-End (VueJS, Nuxt, TypeScript) en formation, fondateur de AAA MetaHuahua. Médecine Psychiatre de formation, et Président d'Aloe Corporation, société de développement Web (https://www.aloe-corp.com).
-- GigiBitcoin: 
-- Superman: 
+## Delivery Time 
+- Milestone #1: 2 months
+- Milestone #2: 1 month
+- Milestone #3: 3 months
+- Final: #4: 1 months
 
-#### Previous contributions links:
+## Team Description:
+- Dr Cryptulien: French, involved in the Cosmos and Teritori ecosystem since its inception. Front-End Developer (VueJS, Nuxt, TypeScript) in training, founder of AAA MetaHuahua. Psychiatrist by training, and President of Aloe Corporation, a web development company (https://www.aloe-corp.com).
+- GigiBitcoin:
+- Superman:
 
-NFT Collections: 
+## Previous Contributions Links:
+
+NFT Collections:
 - https://app.teritori.com/collection/tori-tori1a8h38nsxu254trpfm0z65mrvguhp544mf9e36670ltm4s89y5wjq7mqevy
 - https://app.teritori.com/collection/tori-tori1plr28ztj64a47a32lw7tdae8vluzm2lm7nqk364r4ws50rgwyzgsapzezt
 - https://app.teritori.com/dapp/tori-punks/welcome
@@ -99,19 +99,19 @@ Spaces with Teritori Team:
 - https://x.com/Homestead_Pleb/status/1785006877966815280
 - https://x.com/ToriPunks/status/1768682835982868691?s=20
 - https://twitter.com/ToriPunks/status/1758189641251905736
-  
-Community Wallets: 
+
+Community Wallets:
 - https://www.mintscan.io/teritori/accounts/tori1kxekm829l9y8ae6nketyywx6ncnngy9x3esgqm
 - https://www.mintscan.io/teritori/account/tori1g2nuu04v4ckhvknuadudcwz7dpefftzuud9839
 
-Vidéos Youtube:
+YouTube Videos:
 - https://www.youtube.com/watch?v=vQrhQgfpPoM
 - https://www.youtube.com/watch?v=akbRRgPruRk
 
-#### Grant receiver teritori wallet address: (with org or individual profile)
+## Grant Receiver Teritori Wallet Address: (with org or individual profile)
 AAA Ledger Wallet: tori1h2rpafgcknpsnae0dnds5h7mzcxzsaxvjeglkh
 
-#### Useful links:
+## Useful Links:
 AAA MetaHuahua:
 
 - Linktree: https://linktr.ee/aaa.metahuahua
@@ -119,7 +119,7 @@ AAA MetaHuahua:
 - Website: https://www.aaa-metahuahua.com/
 - Medium: https://medium.com/@aaa.metahuahua
 
-AAA Validator 
+AAA Validator
 
 - Passage Chain: https://restake.app/passage/pasgvaloper1qc6z22dmzqy556d25us262g4vcg9sqtt0xh6ff
 - Chihuahua Chain: https://restake.app/chihuahua/chihuahuavaloper16x3cq3372jfjg7279prralhhdtregpgyvuj622
@@ -131,11 +131,9 @@ TORIPUNKS Collection:
 - Twitter: https://twitter.com/ToriPunks
 - Buy on marketplace: https://app.teritori.com/collection/tori-tori1plr28ztj64a47a32lw7tdae8vluzm2lm7nqk364r4ws50rgwyzgsapzezt
 - Punks Game Wallet: https://www.mintscan.io/teritori/account/tori1g2nuu04v4ckhvknuadudcwz7dpefftzuud9839
- 
-CHADPUNKS Collection: 
+
+CHADPUNKS Collection:
 
 - Twitter: https://twitter.com/ToriPunks
 - Buy on marketplace: https://app.teritori.com/collection/tori-tori1a8h38nsxu254trpfm0z65mrvguhp544mf9e36670ltm4s89y5wjq7mqevy
-- ChadPunks Wallet:  https://www.mintscan.io/teritori/accounts/tori1kxekm829l9y8ae6nketyywx6ncnngy9x3esgqm
-
----
+- ChadPunks Wallet: https://www.mintscan.io/teritori/accounts/tori1kxekm829l9y8ae6nketyywx6ncnngy9x3esgqm
