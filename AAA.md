@@ -2,10 +2,9 @@
 
 ## Grant Project Name:
 
-Decentralization of the AAA project
+Decentralization of the AAA project for ToriPunks and ChadPunks
 
-#### Team Name: 
-
+#### Team Name: AAA MetaHuahua Team
 - Dr Cryptulien
 - GigiBitcoin
 - Superman
@@ -32,7 +31,8 @@ Durée : 1 mois
 
 Budget : 
 - WebApp AAA : 3000 USDC
-- 
+- dApp Teritori : 5000 USDC
+- Smart Contracts : 
 
 À ce jour, la Gigantic Lottery permettant à des holders de ToriPunks de gagner un prix tous les mois issu du des rewards du wallet communautaire () est réalisé à la main, et les fonds sont envoyés à la main. Il en est de même pour la Russian Roulette, qui avait un fonctionnement sur un serveur externe centralisé, et qui est down par défaut d'entretien, par manque de moyens. 
 
