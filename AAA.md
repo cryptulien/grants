@@ -84,8 +84,8 @@ Add all the games with the partners and create a decentralized web and mobile ec
 
 ## Team Description:
 - Dr Cryptulien: French, involved in the Cosmos and Teritori ecosystem since its inception. Front-End Developer (VueJS, Nuxt, TypeScript) in training, founder of AAA MetaHuahua. Psychiatrist by training, and President of Aloe Corporation, a web development company (https://www.aloe-corp.com).
-- GigiBitcoin:
-- Superman:
+- GigiBitcoin: Canadian, involved in Cosmos Ecosystem and Teritori since their inception. Project lead for AAA Metahuahua's NFT projects, Community manager, part of the AAA Metahuahua Team. Studied in Business Administration, now full time Web3 and business owner.
+- Superman: Canadian, involved in the Cosmos and Teritori ecosystem since its inception. Project lead and community manager at AAA Metahuahua. Studied in marketing and business management, currently full-time web3 and business owner.
 
 ## Previous Contributions Links:
 
