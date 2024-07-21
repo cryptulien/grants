@@ -40,7 +40,7 @@ To decentralize these activities, the following are needed:
   - One on the Teritori application (to be refactored, possibly once the mobile version of the Teritori dApp is available)
 - Smart contracts
   - Several smart contract trials are ongoing (https://github.com/Aloe-Corporation/cosmos-lottery (Norman has access to this repo))
-  - What we need: [text](https://github.com/cryptulien/grants/blob/main/Lottery.md)
+  - What we need: [link](https://github.com/cryptulien/grants/blob/main/Lottery.md)
 
 ### Second Step: Decentralize the Use of Community Wallets
 
